@@ -21,7 +21,7 @@ You can install related packages directly through "pip install requirements.txt"
 
 # framework
  
-<img width="500" height="300" src="https://github.com/sfeng-m/REAL2/blob/master/images/framework.png" />
+<img width="800" height="480" src="https://github.com/sfeng-m/REAL2/blob/master/images/framework.png" />
 
 # result
 To investigate the effectiveness of the trainable memory module, we implemented our framework follows the settings of REAL and only modified the framework of stage 1 part.  In particular, we compare different backbone of memory module that involves TextCNN, TextRCNN, Transformer, and BERT model. 
