@@ -1,7 +1,8 @@
 # REAL2
-REAL2: improve the effectiveness of real model to solve math work problems(MWP) by optimizing the memory module.
 
-Code for NIPS 2021 Workshop Paper "REAL2: An End-to-end Memory-augmented Solver for Math Word Problems".
+Code for NIPS2021 Paper on MATHAI4ED Workshop: ["REAL2: An End-to-end Memory-augmented Solver for Math Word Problems"](https://mathai4ed.github.io/papers/papers/paper_7.pdf). 
+
+REAL2: improve the effectiveness of [REAL model](https://aclanthology.org/2021.findings-emnlp.68.pdf) to solve math work problems(MWP) by optimizing the memory module.
 
 # environment  
 python3.6, pytorch1.2\
