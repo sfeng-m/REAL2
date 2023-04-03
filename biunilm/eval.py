@@ -1,8 +1,6 @@
 # coding=utf-8
 
 """
-@Company：CVTE-RESEARCH
-@author: huangshifeng@cvte.com
 @time: 2020/1/15
 @Describe: ACC评价指标
 """
