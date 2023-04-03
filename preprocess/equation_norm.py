@@ -1,7 +1,5 @@
 # -*- encoding: UTF-8 -*-
 """
-@author: 'Shifeng Huang'
-@Company：CVTE-RESEARCH
 @time: '2021.3.15'
 @describe: 等式归一化的相关代码；
 """
